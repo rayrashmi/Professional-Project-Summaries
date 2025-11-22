@@ -1,4 +1,4 @@
-# Data Warehouse & Migration Integrity (DPDS)
+# Data Warehouse & Migration Integrity (DPDS) (Jan 2022-Jun 2022)
 
 ## Overview
 This project focused on validating data across legacy systems, Data Warehouse layers, and new cloud migration targets to ensure consistency during a large-scale enterprise migration.
